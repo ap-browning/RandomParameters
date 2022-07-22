@@ -1,6 +1,6 @@
 # Random Parameters
 
-Repository for the preprint "Efficient inference and identifiability analysis for differential equation models with random parameters" available on [arXiv](#).
+Repository for the preprint "Efficient inference and identifiability analysis for differential equation models with random parameters" available on [arXiv](https://arxiv.org/abs/2207.10267).
 
 This repository contains two components: a stand-alone Julia module `RandomParameters` that can be generally applied to any random parameter problem, and a folder `Figures` containing scripts to produce the figures and results in the preprint.
 

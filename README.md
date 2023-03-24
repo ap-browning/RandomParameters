@@ -1,5 +1,7 @@
 # Random Parameters
 
+* See [RandomParamApprox.jl](https://github.com/ap-browning/RandomParamApprox.jl) for a standalone repository that can be installed through the package manager. *
+
 Repository for the paper "Efficient inference and identifiability analysis for differential equation models with random parameters" published in [_PLOS Computational Biology_](https://doi.org/10.1371/journal.pcbi.1010734). Preprint available on [arXiv](https://arxiv.org/abs/2207.10267).
 
 This repository contains two components: a stand-alone Julia module `RandomParameters` that can be generally applied to any random parameter problem, and a folder `Figures` containing scripts to produce the figures and results in the preprint.
